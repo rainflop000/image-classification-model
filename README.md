@@ -65,6 +65,7 @@ This model is in the file titled `additional_model_improvements.py`.
 ```python
 tensorflow>=2.0.0
 numpy<2.0
+```
 
 ## Development History
 
